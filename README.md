@@ -1,12 +1,14 @@
 # Classification_P01
 
 ## Table of content
+(https://github.com/ad5454/Classification_P01#table-of-content)
 
-1. [Abstract](https://github.com/adijams01/cleveland_heart_disease_classification/blob/main/README.md#abstract)
-2. [Data](https://github.com/adijams01/cleveland_heart_disease_classification/blob/main/README.md#data)
-3. [Results](https://github.com/adijams01/cleveland_heart_disease_classification/blob/main/README.md#results)
-4. [Refrences](https://github.com/adijams01/cleveland_heart_disease_classification/blob/main/README.md#refrences) 
-5. [Contributors](https://github.com/adijams01/cleveland_heart_disease_classification/blob/main/README.md#contributors)
+1. [Abstract](https://github.com/ad5454/Classification_P01#abstract)
+2. [Data](https://github.com/ad5454/Classification_P01#data
+)
+3. [Results](https://github.com/ad5454/Classification_P01#results)
+4. [Refrences](https://github.com/ad5454/Classification_P01#refrences) 
+5. [Contributors](https://github.com/ad5454/Classification_P01#contributors)
 
 ## abstract
 
