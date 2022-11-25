@@ -1,7 +1,6 @@
 # Classification_P01
 
 ## Table of content
-(https://github.com/ad5454/Classification_P01#table-of-content)
 
 1. [Abstract](https://github.com/ad5454/Classification_P01#abstract)
 2. [Data](https://github.com/ad5454/Classification_P01#data
