@@ -57,11 +57,13 @@ We got the following results
 * loss: 0.4518 - accuracy: 0.8111
 
 * Confusion matrix
+* 
 ![WhatsApp Image 2022-11-25 at 11 21 15 AM](https://user-images.githubusercontent.com/92617405/203923888-363e2435-0674-474b-b593-5880443b88f7.jpeg)
 
 ## Refrences
 
 https://github.com/mrdbourke/tensorflow-deep-learning
+
 ## Contributors
 
 [Chandu Bayyavarapu](https://github.com/Chandu106)
