@@ -1,4 +1,4 @@
-# Classification_P01
+# Cleveland_Heart_Diseases_Classification
 
 ## Table of content
 
